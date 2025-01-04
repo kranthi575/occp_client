@@ -1,9 +1,9 @@
 
-
+import './index.css';
 function App() {
   return (
    <>
-    <p>welcome to react app!!</p>
+    <p className="text-blue-300">welcome to react app!!</p>
    </>
   );
 }
